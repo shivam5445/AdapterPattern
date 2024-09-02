@@ -24,4 +24,5 @@ The purpose of this project is to showcase how the Adapter Pattern can be used t
 4. **`BicycleAdapter`**: Adapts `Bicycle` to `Vehicle` by implementing the `Drive()` method and calling `Pedal()`.
 
 ### Diagram
-![alt text]([http://url/to/img.png](https://github.com/shivam5445/AdapterPattern/blob/master/class.jpg))
+![Class Diagram](https://github.com/shivam5445/AdapterPattern/blob/master/class.jpg)
+
